@@ -62,7 +62,6 @@
 	dock.persistent-others = [ "/Users/edson/Downloads" ];
 	NSGlobalDomain.AppleInterfaceStyle = "Dark";
 	NSGlobalDomain.KeyRepeat = 2;
-	NSGlobalDomain.InitialKeyRepeat = 2;
 	controlcenter.BatteryShowPercentage = true;
       };
 
